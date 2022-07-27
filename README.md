@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Lam</h1>
-<h3>A student who likes to code from Vietnamese :)</h3>
+<h3>A student who likes to code from Vietnam</h3>
 
 - 🌱 I'm learning PHP and NestJS
 
