@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some APIs**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **NestJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
