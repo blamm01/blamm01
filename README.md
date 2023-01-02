@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lam</h1>
+<h1 align="center">Hi 👋, I'm Lâm (Blam)</h1>
 <h3 align="center">A student & backend developer from Vietnam</h3>
 
 - 🔭 I’m currently working on **some APIs**
