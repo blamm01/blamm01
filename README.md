@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lâm (Blam)</h1>
 <h3 align="center">A student & backend developer from Vietnam</h3>
 
-- 🔭 I’m currently working on **some APIs**
-
-- 🌱 I’m currently learning **nothing** (because of my schoolwork)
-
 <h3 align="left">How I learned to code?</h3>
 The first time I programmed was in 2021 during Tet holiday. My first project is a Discord bot. I watched <a href="https://github.com/reconlx"><strong>reconlx</strong></a>'s tutorials, and followed him. Coding a Discord Bot gave me a basic knowledge of JavaScript (NodeJS too). So now, I can say that I can almost understand JavaScript code, and other code in several different languages.
 
