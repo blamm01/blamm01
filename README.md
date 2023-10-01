@@ -6,7 +6,7 @@ The first time I programmed was in 2021 during Tet holiday. My first project is 
 
 <h3 align="left">Connect with me:</h3>
 Website: Updating<br />
-Discord: <a href="https://discord.com/users/736636650796351559"><strong>blam#8965 (ID: 736636650796351559)</strong></a><br />
+Discord: <a href="https://discord.com/users/736636650796351559"><strong>blamm01 (ID: 736636650796351559)</strong></a><br />
 Facebook: <a href="https://www.facebook.com/blamm01"><strong>Nguyễn Hà Bảo Lâm</strong></a><br />
 Twitter: <a href="https://twitter.com/blamm01"><strong>@blamm01</strong></a><br />
 Email: <a href="mailto:blam2010.hn@gmail.com"><strong>blam2010.hn@gmail.com</strong></a><br />
