@@ -7,7 +7,7 @@ The first time I programmed was in 2021 during Tet holiday. My first project is 
 <h3 align="left">Connect with me:</h3>
 Website: <a href="https://nhblam.space"><strong>https://nhblam.space</strong></a><br />
 Discord: <a href="https://discord.com/users/736636650796351559"><strong>blamm01 (ID: 736636650796351559)</strong></a><br />
-Facebook: <a href="https://www.facebook.com/blamm01"><strong>Nguyễn Hà Bảo Lâm</strong></a><br /> (I have two accounts)
+Facebook: <a href="https://www.facebook.com/blamm01"><strong>Nguyễn Hà Bảo Lâm</strong></a> (I have two accounts)<br />
 Twitter: <a href="https://twitter.com/blamm01"><strong>@blamm01</strong></a><br />
 Email: <a href="mailto:blam@mail.nhblam.space"><strong>blam@nhblam.space</strong></a><br />
 
