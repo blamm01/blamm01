@@ -6,3 +6,6 @@ The first time I programmed was in 2021 during Tet holiday. My first project was
 
 <h3 align="left">Connect with me:</h3>
 Discord: <a href="https://discord.com/users/736636650796351559"><strong>kasdvn17</strong></a><br />
+
+<h3 align="left">Explore my work:</h3>
+- <a href="https://gitlab.com/yacps"><strong>YACPS Online Judge</strong></a> (collaborated with <a href="https://github.com/vuthanhtrung2010"><strong>devtrung</strong></a>)
